@@ -19,4 +19,5 @@ build:
     - java --version
     - node -v
     - python --version
+    - ruby --version
     
