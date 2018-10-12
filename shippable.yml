@@ -17,7 +17,7 @@ build:
     - python --version 
     - pip --version #8.1.2
     - java --version
-    - node -version
+    - node -v
     - ruby -v
     - python --version
     
