@@ -16,6 +16,7 @@ build:
   ci:
     - python --version 
     - pip --version #8.1.2
+    - virtualenv --version
     - java --version
     - node -v
     - python --version
